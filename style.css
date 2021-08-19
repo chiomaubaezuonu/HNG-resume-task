@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 3rem;
+} 
+
+img{
+    margin: auto;
+}
+
+
+.container {
+    /* text-align: center; */
+    border: 0.1rem solid #DDDDDD;
+    background-color: #eee;
+    width: 50%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 6rem 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+#hng-logo img{
+    justify-content: leftgit;
+    height: 2rem;
+}
+#objective {
+    padding-bottom: 2rem;
+}
+#header h1, h5, p {
+    text-align: center;
+    line-height: 1.5rem;
+}
+ .contact { 
+     padding-bottom: 3rem;
+ }
+ h2 {
+     text-align: center;
+ }
+ 
+ p {
+     margin-bottom: 2rem;
+ }
+ 
